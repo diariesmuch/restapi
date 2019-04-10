@@ -1,0 +1,29 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "Node.js and Express REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/diariesmuch.git"
+  },
+  "keywords": [
+    "REST",
+    "API"
+  ],
+  "author": "Lennox Mucheni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/diariesmuch/issues"
+  },
+  "homepage": "https://github.com/github.com/diariesmuch#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "request": "^2.88.0"
+  }
+}
